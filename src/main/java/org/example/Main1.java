@@ -8,7 +8,5 @@ public class Main1 {
         System.out.println("Please enter a number between 1 and 5:");
         scanner.nextLine();
         System.out.println("Hello, World!"+scanner.nextLine());
-        System.out.println("This is an emergcy fixgit ");
-
     }
 }
