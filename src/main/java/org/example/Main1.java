@@ -10,5 +10,7 @@ public class Main1 {
         System.out.println("Hello, World!"+scanner.nextLine());
         System.out.println("Next line");
         scanner.nextLine();
+        System.out.println("Training local");
+
     }
 }
